@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drewpayton
-- 👀 I’m interested in being a Full Stack Developer and either front end or back end development.
+- 👀 I’m interested in being a Software Engineer
 - 🌱 I’m currently learning enhancing my full stack developer skills
 - 📫 How to reach me, you can reach me via email @ drewpayton18@gmail.com
 
