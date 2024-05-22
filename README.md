@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drewpayton
-- 👀 I’m interested in being a Software Engineer
+- 👀 I’m interested in being a Back End Engineer
 - 🌱 I’m currently learning to enhance my Back-end developer skills
 - 📫 How to reach me, you can reach me via email @ drewpayton18@gmail.com
 
